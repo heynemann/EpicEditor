@@ -1,0 +1,16 @@
+{
+  "name": "EpicEditor",
+  "version": "0.2.2",
+  "homepage": "https://github.com/OscarGodson/EpicEditor",
+  "authors": [
+    "Oscar Godson <oscargodson@gmail.com>"
+  ],
+  "description": "An Embeddable Markdown Editor",
+  "main": "epiceditor/js/epiceditor.min.js",
+  "keywords": [
+    "epic",
+    "editor",
+    "markdown"
+  ],
+  "license": "MIT"
+}
