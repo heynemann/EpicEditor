@@ -6,7 +6,11 @@
     "Oscar Godson <oscargodson@gmail.com>"
   ],
   "description": "An Embeddable Markdown Editor",
-  "main": "epiceditor/js/epiceditor.min.js",
+  "devDependencies": [],
+  "dependencies": [],
+  "main": [
+      "epiceditor/js/epiceditor.min.js"
+  ],
   "keywords": [
     "epic",
     "editor",
